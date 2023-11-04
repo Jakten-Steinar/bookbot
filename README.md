@@ -1,2 +1,2 @@
 # bookbot
-"Build a local dev environment" course from Boot.dev
+BookBot is (not) my first git project!
