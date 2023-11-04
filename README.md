@@ -1,2 +1,2 @@
 # bookbot
-"Build a local dev environment" course for Boot.dev
+"Build a local dev environment" course from Boot.dev
